@@ -14,3 +14,11 @@ Code for generating the interactive map is in the Jupyter notebook. [View Code](
 </style>
 <iframe src="covidmap-2020-04-30.html">
 
+
+<style>
+	iframe {
+		width: 1200px;
+		height: 600px;
+	}
+</style>
+<iframe src="Screen Shot COVID19 Data 2020-04-30.png">
