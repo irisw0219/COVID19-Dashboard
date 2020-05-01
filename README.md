@@ -8,7 +8,7 @@ Code for generating the interactive map is in the Jupyter notebook. [View Code](
  
 <style>
 	iframe {
-		width: 1300px;
+		width: 1200px;
 		height: 600px;
 	}
 </style>
