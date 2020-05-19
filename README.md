@@ -3,8 +3,6 @@ This tutorial was developed for visualizing the COVID19 data in R. Using open so
 
 
 ## Getting Started
-<img src="Screen Shot COVID19 Data 2020-04-30.png" class="inline"/>
-
 Code for generating the covid map is in the Jupyter notebook. [View Code](https://github.com/irisw0219/COVID19-Dashboard/blob/master/COVID19%20Data%20Visualisation.ipynb)
  
 <style>
